@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "de10",
+      "username": "Sreelakshmi",
+      "email": "sree@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "d785",
+      "username": "Nazrin",
+      "email": "nazrin@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "1081",
+      "username": "Athira",
+      "email": "OR@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "cf36",
+      "username": "Roshan",
+      "email": "Roshan67@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "506c",
+      "username": "Rahul",
+      "email": "Rahul@gmail.com",
+      "status": "active"
+    }
+  ]
+}
